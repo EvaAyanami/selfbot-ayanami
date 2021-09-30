@@ -7,38 +7,15 @@
 
 ### About the project
 
-- This project is mainly made for people who want to understand discord.py lib for python so that they can develop their skills in using it. Discord prohibits Selfbots so if you want to use this you will use it at your own risk.
+- Ce projet est principalement destiné aux personnes qui souhaitent comprendre la lib discord.py pour python afin de développer leurs compétences dans son utilisation. Discord interdit les Selfbots, donc si vous souhaitez l'utiliser, vous l'utiliserez à vos risques et périls.
 
 # WARNING!!!
 
-- You agree not to (and not to attempt to) (i) use the Service for any use or purpose other than as expressly permitted by these Terms;(ii) copy, adapt, modify, prepare derivative works based upon, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast, attempt to discover any source code, reverse engineer, decompile, disassemble, or otherwise exploit the Service or any portion of the Service, except as expressly permitted in these Terms; or (iii) use data mining, robots, spiders, or similar data gathering and extraction tools on the Service.
+- Vous acceptez de ne pas (et de ne pas tenter d') (i) utiliser le Service à des fins ou à des fins autres que celles expressément autorisées par les présentes Conditions ; (ii) copier, adapter, modifier, préparer des œuvres dérivées basées sur, distribuer, concéder sous licence, vendre, transférer, afficher publiquement, exécuter publiquement, transmettre, diffuser, diffuser, tenter de découvrir tout code source, faire de l'ingénierie inverse, décompiler, désassembler ou exploiter autrement le Service ou toute partie du Service, sauf comme expressément autorisé dans les présentes Conditions ; ou (iii) utiliser l'exploration de données, des robots, des araignées ou des outils de collecte et d'extraction de données similaires sur le Service.
 
-- This in short means that Discord prohibits any form of bots and automation, which means that selfbot is prohibited by ToS. This is for educational purposes only, if you want to use it use it at your own risk. We do not take any responsibility for you.
-
-
-
-## How to install and use Ayanami Discord Self-Bot?
-- Windows:
-    1. Download python, preferably 3.7.0. You can do that by heading to this link, https://www.python.org/downloads/release/python-370/. 
-    2. Git clone the repository. You can do this by typing in your command prompt "git clone https://github.com/zeenode/selfbot" (You will need git which you can download from https://git-scm.com/download/win)
-    3. Run install.bat then launch.bat and input your token. You will need to do this everytime you start the selfbot. Alternatively you can put your token in the *config.py* file.
-- GNU/Linux:
-    1. Download python, preferably 3.7.0. You can do that by heading to this link, https://www.python.org/downloads/release/python-370/ and installing the gunzipped source tarball. (Note you will need to build python from source. Alternatively you can download it from the terminal by using your distro's package manager, although it will be the newest version, not 3.7.0)
-    2. Git clone the repository. You can do this by typing in your terminal "git clone https://github.com/zeenode/selfbot" (You will need git for this which you can download from the terminal by using your distro's package manager.)
-    3. Run the python file and input your token. You will need to do this everytime you start the selfbot. Alternatively you can put your token in the *config.py* file.
-    
+- Cela signifie en bref que Discord interdit toute forme de bots et d'automatisation, ce qui signifie que selfbot est interdit par ToS. Ceci est uniquement à des fins éducatives, si vous souhaitez l'utiliser, utilisez-le à vos risques et périls. Nous ne prenons aucune responsabilité pour vous.
 
 
-
-## Commands / How to use?
-###### Type (prefix)help (ex. $help) to see list of categories !
-###### Type (prefix)help (category) (ex. $help textencoding) to see list of commands in category !
-
-
-
-
-
-<!---
 
 ## Commands
 

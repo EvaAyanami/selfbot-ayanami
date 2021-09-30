@@ -1,11 +1,9 @@
-# Zeenode Discord Selfbot
+# Ayanami x Zeenode Discord Selfbot
 
 
 # T.O.S
 #### This repository/project is under MIT licence, if you are using it please leave watermark to the organisation. (github.com/zeenode)
 
-## Selfbot Portfolio: 
-###### https://zeenode.github.io/selfbot-site/
 
 ### About the project
 
@@ -19,7 +17,7 @@
 
 
 
-## How to install and use Zeenode Discord Self-Bot?
+## How to install and use Ayanami Discord Self-Bot?
 - Windows:
     1. Download python, preferably 3.7.0. You can do that by heading to this link, https://www.python.org/downloads/release/python-370/. 
     2. Git clone the repository. You can do this by typing in your command prompt "git clone https://github.com/zeenode/selfbot" (You will need git which you can download from https://git-scm.com/download/win)
